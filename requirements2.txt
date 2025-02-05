@@ -1,0 +1,8 @@
+torch==2.6.0
+torchvision==0.16.0
+torchaudio==2.6.0
+speechbrain==1.0.2
+pyannote.audio==3.3.2
+click==8.1.7
+black==24.3.0
+pydoclint==0.4.1
